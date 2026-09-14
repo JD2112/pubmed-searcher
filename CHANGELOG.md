@@ -19,7 +19,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Print / PDF (`.pdf`)**: Native print popup formatted with A4 layout and dedicated typography for instant Save-as-PDF.
   - **Markdown (`.md`)**: Direct markdown export for personal knowledge bases (Obsidian, Logseq).
 - **Direct User API Key Management**: Secure modal for saving private user API keys locally in the browser with automatic model discovery and zero backend persistence.
-- **Modern Unified Design System**: Redesigned UI aligned with `methylR 2.0 Hybrid` design language featuring Inter typography, smooth gradients, and custom scrollbars.
 - **CSV Batch Citation Export**: Ability to select multiple search results and download bibliographic metadata in standard CSV.
 
 #### Changed
