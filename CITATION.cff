@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use PubMed Searcher in your research, please cite it as below."
+authors:
+  - family-names: Das
+    given-names: Jyotirmoy
+    orcid: https://orcid.org/0000-0002-5649-4658
+    affiliation: "Linköping University"
+title: "PubMed Searcher: Intelligent Biomedical Literature Exploration & AI Synthesis Platform"
+version: 2.0.0
+date-released: 2026-09-14
+url: "https://pubmed-searcher.pages.dev"
+repository-code: "https://github.com/JD2112/pubmed-searcher"
+keywords:
+  - bioinformatics
+  - pubmed
+  - literature-mining
+  - artificial-intelligence
+  - llm
+  - genomics
+license: MIT
