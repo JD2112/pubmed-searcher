@@ -3,7 +3,7 @@
 [![Live App](https://img.shields.io/badge/Live_App-pubmed--searcher.pages.dev-blue?style=plastic&logo=cloudflare)](https://pubmed-searcher.pages.dev)
 [![Version](https://img.shields.io/badge/Version-v2.0.0-emerald?style=plastic)](CHANGELOG.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-amber?style=plastic)](LICENSE)
-
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22757525-blue?style=plastic&logo=zenodo)](https://doi.org/10.5281/zenodo.22757525)
 
 An intelligent, high-performance literature exploration and scientific synthesis platform designed for researchers. 
 
@@ -66,7 +66,9 @@ If you use **PubMed Searcher** in your research, academic reviews, or publicatio
   title = {PubMed Searcher: Intelligent Biomedical Literature Exploration & AI Synthesis Platform},
   year = {2026},
   version = {2.0.0},
-  url = {https://pubmed-searcher.pages.dev}
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.22757525},
+  url = {https://doi.org/10.5281/zenodo.22757525}
 }
 ```
 

@@ -18,3 +18,7 @@ keywords:
   - llm
   - genomics
 license: MIT
+doi: 10.5281/zenodo.22757525
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22757525
